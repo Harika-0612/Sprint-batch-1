@@ -2,6 +2,6 @@ t add .
 sleep 2
 git commit -m "updated"
 sleep 2 
-git push origin master
+git push origin main
 echo Files pushed to git
 
